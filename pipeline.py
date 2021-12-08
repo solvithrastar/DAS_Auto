@@ -8,7 +8,7 @@ A data reading function will not be provided here as they depend on
 DAS interrogators and can include proprietary information.
 """
 import image_processing as ip
-import os, pathlib, glob
+import pathlib
 from typing import Tuple, Union, List
 import numpy as np
 
