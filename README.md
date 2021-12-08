@@ -16,3 +16,5 @@ so you can create a conda environment by running:
 `conda env create -f environment.yml`
 
 and that should be enough to be able to use the code.
+
+The repository contains both a collection of image processing functions as well as two example pipelines which can be used to detect earthquakes in DAS measurements.
