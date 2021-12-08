@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/436188798.svg)](https://zenodo.org/badge/latestdoi/436188798)
+
 # DAS_Auto
 
 This is a repository for a method which detects earthquakes in datasets
